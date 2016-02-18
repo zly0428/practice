@@ -1,19 +1,28 @@
 package Solutions;
+<<<<<<< HEAD
 /*
+=======
+
+>>>>>>> ef1926fae2c58a4e7ce36ceeba0da2a6df588b31
 public class Fibonacci {
 	
 	
     public int fibonacci(int n) {
         // write your code here
+<<<<<<< HEAD
     	if (n == 1 || n ==2) {
     		return 1;
         }
     	else
     		return fibonacci(n-1)+fibonacci(n-2);
+=======
+    	
+>>>>>>> ef1926fae2c58a4e7ce36ceeba0da2a6df588b31
     }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
 		Fibonacci f = new Fibonacci();
 		f.fibonacci(8);
 		System.out.println(f.fibonacci(8));
@@ -54,3 +63,9 @@ class Fibonacci {
 		System.out.println(s.fibonacci(10));
 	}
 }
+=======
+
+	}
+
+}
+>>>>>>> ef1926fae2c58a4e7ce36ceeba0da2a6df588b31
