@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\LU\MOOC\Java Programming Object Oriented Design of Data Structures\Module3_Advanced Data Structures in Java\UCSDGraphs"/>
+			<item value="C:\Users\Nan\Downloads\Initial"/>
+			<item value="F:\LU\Course_OOP java\UCSDUnfoldingMaps"/>
+			<item value="F:\LU\Course_Data structures Measuring and Optimizing Performance\MOOCTextEditor"/>
+			<item value="D:\EclipseJava\workspace"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

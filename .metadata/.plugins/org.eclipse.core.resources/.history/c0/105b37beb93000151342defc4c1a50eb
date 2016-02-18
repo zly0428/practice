@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Solution {
+	
+	public static void main(String args[]) {
+		isPalindrome(123);
+	}
+	public static boolean isPalindrome(int x) {
+		int t=0;
+		int i=0;
+		while (x !=0)
+		{
+			t+=(x%10)*Math.pow(10, i);
+			x=x/10;
+			i++;
+		}
+		if (x ==t)
+		{
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
+
+}
+
